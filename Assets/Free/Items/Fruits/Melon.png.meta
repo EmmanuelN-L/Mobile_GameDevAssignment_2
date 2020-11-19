@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 9cd8ddececa99214fb1b92fffe005c09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3776312371561069292
+    second: Melon_0
+  - first:
+      213: 2611220147007439301
+    second: Melon_1
+  - first:
+      213: 2353208620542727372
+    second: Melon_2
+  - first:
+      213: 8821371696964291164
+    second: Melon_3
+  - first:
+      213: 8382193064667267037
+    second: Melon_4
+  - first:
+      213: -3288833518496767930
+    second: Melon_5
+  - first:
+      213: 4593711905992766363
+    second: Melon_6
+  - first:
+      213: -2703723749527953725
+    second: Melon_7
+  - first:
+      213: 4404175151357073704
+    second: Melon_8
+  - first:
+      213: -4406734128596351014
+    second: Melon_9
+  - first:
+      213: -8731991674958125425
+    second: Melon_10
+  - first:
+      213: -7029448349843301362
+    second: Melon_11
+  - first:
+      213: -909351362157965132
+    second: Melon_12
+  - first:
+      213: 2938550379556323724
+    second: Melon_13
+  - first:
+      213: -1316238954007984859
+    second: Melon_14
+  - first:
+      213: 2641464298146962395
+    second: Melon_15
+  - first:
+      213: 4074361457694701065
+    second: Melon_16
+  - first:
+      213: -994422591779650621
+    second: Melon_17
+  - first:
+      213: -420660171991481658
+    second: Melon_18
+  - first:
+      213: -4112381685586375473
+    second: Melon_19
+  - first:
+      213: 7541311444095533261
+    second: Melon_20
+  - first:
+      213: -7106874137065893299
+    second: Melon_21
+  - first:
+      213: 266814294623996212
+    second: Melon_22
+  - first:
+      213: 2649228808572019104
+    second: Melon_23
+  - first:
+      213: -2726253108661912022
+    second: Melon_24
+  - first:
+      213: 1619335220656356665
+    second: Melon_25
+  - first:
+      213: 4944088765960653128
+    second: Melon_26
+  - first:
+      213: 6425835202134653355
+    second: Melon_27
+  - first:
+      213: 80169360013307326
+    second: Melon_28
+  - first:
+      213: -1447446427991973571
+    second: Melon_29
+  - first:
+      213: 4463016253756674744
+    second: Melon_30
+  - first:
+      213: 4643993833437650550
+    second: Melon_31
+  - first:
+      213: -5880124317067917888
+    second: Melon_32
+  - first:
+      213: 4063127977611224792
+    second: Melon_33
+  - first:
+      213: -977743562058224637
+    second: Melon_34
+  - first:
+      213: 4856580617321596598
+    second: Melon_35
+  - first:
+      213: -5473890527837839427
+    second: Melon_36
+  - first:
+      213: 3814491048439358167
+    second: Melon_37
+  - first:
+      213: -6248083920207642925
+    second: Melon_38
+  - first:
+      213: 1748008988280704514
+    second: Melon_39
+  - first:
+      213: 7418826621138069537
+    second: Melon_40
+  - first:
+      213: 4267510005473694059
+    second: Melon_41
+  - first:
+      213: 3157960383738201419
+    second: Melon_42
+  - first:
+      213: -761153406749922368
+    second: Melon_43
+  - first:
+      213: 7779305095481625410
+    second: Melon_44
+  - first:
+      213: -7622400113256936163
+    second: Melon_45
+  - first:
+      213: -7090614628991239386
+    second: Melon_46
+  - first:
+      213: 3120038481484679101
+    second: Melon_47
+  - first:
+      213: 8772809829066604150
+    second: Melon_48
+  - first:
+      213: 5491311345441707524
+    second: Melon_49
+  - first:
+      213: 2892540548841804645
+    second: Melon_50
+  - first:
+      213: -3566953836042623467
+    second: Melon_51
+  - first:
+      213: -1682751218179460237
+    second: Melon_52
+  - first:
+      213: 4195896485777989000
+    second: Melon_53
+  - first:
+      213: -6516487751085682087
+    second: Melon_54
+  - first:
+      213: 5441419374393170858
+    second: Melon_55
+  - first:
+      213: 4072532300344810
+    second: Melon_56
+  - first:
+      213: -6395054462747909469
+    second: Melon_57
+  - first:
+      213: 9155923362590630775
+    second: Melon_58
+  - first:
+      213: -2000844343829763709
+    second: Melon_59
+  - first:
+      213: -310338639703899358
+    second: Melon_60
+  - first:
+      213: 4309004383175761264
+    second: Melon_61
+  - first:
+      213: 6842085187373484564
+    second: Melon_62
+  - first:
+      213: 1737610543942093692
+    second: Melon_63
+  - first:
+      213: 6767084529877293128
+    second: Melon_64
+  - first:
+      213: 4915626456092324730
+    second: Melon_65
+  - first:
+      213: 7577620220765543721
+    second: Melon_66
+  - first:
+      213: -4130199904821570381
+    second: Melon_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7fcb1818286430800000000000000
+      internalID: 3776312371561069292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c8bc83eaec3420800000000000000
+      internalID: 2611220147007439301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc416d5c5c648a020800000000000000
+      internalID: 2353208620542727372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acd3d12decb6a70800000000000000
+      internalID: 8821371696964291164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3c3a7e28835470800000000000000
+      internalID: 8382193064667267037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402a940757bb52d0800000000000000
+      internalID: -3288833518496767930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937e25d3a420cf30800000000000000
+      internalID: 4593711905992766363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce599223917a7ad0800000000000000
+      internalID: -2703723749527953725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299d3147f5ce1d30800000000000000
+      internalID: 4404175151357073704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78c6d68a228d2c0800000000000000
+      internalID: -4406734128596351014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e370f5dbb1d680800000000000000
+      internalID: -8731991674958125425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c52ac28f1627e90800000000000000
+      internalID: -7029448349843301362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b09e8a01c55163f0800000000000000
+      internalID: -909351362157965132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814b084004d7c820800000000000000
+      internalID: 2938550379556323724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52582d225a7cbbde0800000000000000
+      internalID: -1316238954007984859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb1de9b8cd58a420800000000000000
+      internalID: 2641464298146962395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melon_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9067f6ca82a0b8830800000000000000
+      internalID: 4074361457694701065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
